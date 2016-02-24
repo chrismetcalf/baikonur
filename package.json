@@ -1,0 +1,19 @@
+{
+  "name": "baikonur",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dashboard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismetcalf/baikonur.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismetcalf/baikonur/issues"
+  },
+  "homepage": "https://github.com/chrismetcalf/baikonur#readme"
+}
