@@ -32,7 +32,7 @@ var donut = grid.set(8, 8, 4, 2, contrib.donut,
 //   , label: 'Network Latency (sec)'})
 
 var gauge = grid.set(8, 10, 2, 2, contrib.gauge, {label: 'Storage', percent: [80,20]})
-var gauge_two = grid.set(2, 9, 2, 3, contrib.gauge, {label: 'Deployment Progress', percent: 80})
+var gauge_two = grid.set(2, 9, 2, 3, contrib.gauge, {label: 'Progress Bar', percent: 80})
 
 var sparkline = grid.set(10, 10, 2, 2, contrib.sparkline, 
   { label: 'Throughput (bits/sec)'
