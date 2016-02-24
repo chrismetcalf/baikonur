@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/chrismetcalf/baikonur/issues"
   },
-  "homepage": "https://github.com/chrismetcalf/baikonur#readme"
+  "homepage": "https://github.com/chrismetcalf/baikonur#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^3.5.3"
+  }
 }
